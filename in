@@ -1,0 +1,20 @@
+d 11 f.off.f.fff
+e n
+d 11 ..o........
+e n
+d 5 ffoff
+e n
+d 5 ..o..
+e n
+d 19 ff..f.off.f.ffff.f.
+e n
+e 6 .f.f.f
+d n
+
+d 25 ..ff..f.o.f.f.ff.f.......
+e n
+d 30 .....ff..f.off.f.ffff.f.......
+e n
+
+d 41 fffff..ff.f.....ff..f.off.f.ffff.f.......
+e n

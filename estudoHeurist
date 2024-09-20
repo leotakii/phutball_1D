@@ -1,0 +1,27 @@
+
+HEURISTICA: vitoriasDir - derrotasDir
+			
+			O jogador da direita quer maximizar
+			O jogador da esquerda quer minimizar
+distancia da trave (tam = 7, season = 6)
+
+......o
+			w    l
+0           812  46
+1			927	 990
+2			902  680
+3			1027 1027
+
+
+distancia da trave (tam = 9, season = 6)
+........o
+			w    l
+0           480  66
+1			994	 5300
+2			1532 2828
+3			2255 3699
+4			2638 2638
+
+
+
+19
